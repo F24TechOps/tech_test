@@ -37,10 +37,15 @@ Produce a working full-stack solution that:
 
 tech_test/
 ├── backend/
+
 │ ├── app/
+
 │ │ └── main.py
+
 │ ├── tests/
+
 │ └── requirements.txt
+
 ├── frontend/
 │ ├── src/
 │ └── angular.json
